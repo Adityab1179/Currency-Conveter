@@ -73,6 +73,9 @@ form button{
         width: 80%;
     }
 }
+form{
+    height: 30vh;
+}
 form button{
     width: 100%;
 }
